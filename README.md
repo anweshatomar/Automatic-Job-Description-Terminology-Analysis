@@ -1,4 +1,4 @@
-# Automatic-Terminology-Analysis-for-Data-Science-Job-Descriptions
+# Automatic Job Description Terminology Analysis
 Analysis of data science and software engineering job descriptions using NLP tools.
 
 ## BREIF DESCRIPTION:
